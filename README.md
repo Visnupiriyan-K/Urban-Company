@@ -7,143 +7,162 @@ _A system analysis and design project built on empathy, accessibility, and innov
 
 ## 📌 Overview
 
-Urban Company Care Plus is a proposed extension to the Urban Company platform that introduces personalized, secure, and convenient at-home services for senior citizens and people with disabilities.
-
-Developed as part of IS 685: System Analysis and Design, this project showcases the integration of agile sprint methodologies, stakeholder-centric design, prototyping, and iterative feedback in building a human-focused digital product.
+Urban Company Care Plus is a specialized extension of the Urban Company platform tailored for senior citizens and individuals with accessibility needs. This project was developed under the IS 685 – System Analysis and Design course, blending user-centered design, agile sprints, and real user feedback to shape a scalable, high-impact service.
 
 ---
 
-## 🎯 Problem Statement
+## 🧭 Design Thinking in Action
 
-While the existing Urban Company platform successfully offers home services, it lacks tailored functionality for elderly users. Seniors often face barriers such as:
-- Difficulty navigating tech interfaces
-- Safety and trust concerns with service providers
-- Limited availability of elderly-specific services
-- Absence of simplified packages based on health, mobility, or support needs
+At the heart of this project is human-centered design. Our team began with problem framing, brainstorming, and rough solution drafting. We addressed common user pain points around clarity, trust, and accessibility in on-demand services.
+
+![Notes and Rough Solutions](assets/Notes%20and%20rough%20solutions.jpg)
 
 ---
 
-## 💡 Our Solution
+## 🔁 Development Process
 
-Care Plus provides:
-- A **dedicated UI** with simplified layouts, larger icons, and guided assistance
-- **Specialized services** like mobility aid, elder companionship, home healthcare, and emergency systems
-- **Secure onboarding and payments** for trust-building
-- **Bestseller-based suggestions** for commonly booked senior services
+The development was structured in five key stages aimed at enhancing usability, trust, and engagement.
 
-This solution was built and validated through a 5-day Sprint process, featuring real-time feedback from users and rapid prototyping iterations.
+![Development Process](assets/Visual%20Map.jpg)
+
+1. **Homepage Redesign** – Simplified navigation using icons and clear descriptions  
+2. **Professional Profiles** – Photos, bios, ratings, and verification  
+3. **Booking Process** – Streamlined steps with customizable options  
+4. **User Feedback & Support** – Prompts, FAQ section, and support tools  
+5. **Community Engagement** – Forums and content-sharing for trust and bonding
+
+---
+
+## 📲 Storyboarding the Experience
+
+To visualize the user flow, we created a storyboard that walks through the booking journey from the app launch to payment.
+
+![Storyboard](assets/Story%20board.png)
+
+- **Opening the App**  
+- **Selecting Service Type**  
+- **Browsing Services**  
+- **Choosing a Package**  
+- **Entering Address & Cart**  
+- **Finalizing Booking & Payment**
+
+---
+
+## 🧪 Interactive Prototypes
+
+We developed a clickable mobile prototype showcasing the "Senior Services" category using Frame 22. These interfaces demonstrate how simple and effective elder care booking can be.
+
+![Prototype](assets/Prototype.png)
+
+- **Frame 22**: Home screen with Senior Services tab  
+- **Frame 20**: Customizable Bestseller Packages  
+- **Frame 21**: Payment summary and confirmation
+
+---
+
+## 🌀 Product Variations
+
+To ensure market fit across diverse regions and needs, we brainstormed strategic product variations.
+
+![Variations](assets/Variatons.jpg)
+
+- **Localized Solutions** – Tailor UI and services to region-specific needs  
+- **Specialized Verticals** – Serve niche markets like pet care, smart homes  
+- **Partnership Programs** – Collaborate with local vendors for bundled offers
+
+---
+
+## 💡 Feature Ideas Turned Roadmap
+
+Real user insight shaped our backlog. Here are some of the features that emerged during brainstorming and user interviews:
+
+![Ideas and Features](assets/Ideas%20and%20features.png)
+
+- Upload photos for service prep  
+- Group bookings for multiple services  
+- Personalized recommendations  
+- Elder-focused service filters
 
 ---
 
 ## 👥 Target Audience
 
-- **Senior Citizens** – the core user base, with age-friendly app design
-- **Caregivers & Family Members** – book and manage services on behalf of seniors
-- **Service Professionals** – verified individuals trained to assist with elder care
-- **Urban Company Administrators** – track metrics, onboard providers, maintain service quality
-
----
-
-## 🏗️ Key Features
-
-| Feature                        | Description |
-|-------------------------------|-------------|
-| 🧓 Senior Services Tab         | A dedicated portal for elder-friendly services |
-| 📦 Pre-bundled Packages       | Recommendations based on health & age group |
-| 🛠 Easy Service Booking       | Streamlined interface for low-tech comfort |
-| 💬 Feedback & Ratings         | Ensures quality assurance and trust |
-| 🔒 Secure Payments            | Multi-layer verification & family support roles |
-| 📊 Metrics Dashboard          | Admin portal for tracking engagement and quality |
+- **Senior Citizens** – our primary user group  
+- **Caregivers & Family Members** – support agents for bookings  
+- **Service Professionals** – trusted providers and partners  
+- **Urban Company Admins** – operational oversight and quality control
 
 ---
 
 ## 🚀 Sprint Highlights
 
-A 5-day Google Ventures-style design sprint was followed:
-
-| Day        | Activities |
+| Day        | Focus Area |
 |------------|------------|
-| **Monday** | Team setup, idea discussions, defining the problem |
-| **Tuesday**| Lightning demos, crazy 8s sketching, rough solutions |
-| **Wednesday**| Art museum, heatmap voting, decision on prototype |
-| **Thursday**| Prototyping: UI design + writing + stitching |
-| **Friday** | Real user interviews, feedback analysis, presentation |
+| **Monday** | Research, Challenge Framing, Sprint Planning |
+| **Tuesday**| Lightning Demos, Crazy 8s, Ideation |
+| **Wednesday**| Sketching, Decision Making, Storyboarding |
+| **Thursday**| Prototyping, Content Creation |
+| **Friday** | User Testing, Iteration, Presentation
 
 ---
 
 ## 📈 Metrics Tracked
 
-- **Daily Active Users**
-- **Conversion Rate** from visit to booking
-- **Customer Satisfaction Score (CSAT)**
-- **Service Provider Onboarding**
-- **Average Response Time**
-- **Repeat Booking / Retention Rate**
+- 🧍‍♂️ Daily Active Users  
+- 💸 Conversion Rate (search to booking)  
+- 🔁 Repeat Bookings  
+- ⭐ Feedback Scores  
+- ⏱️ Average Time to Complete Booking
 
 ---
 
 ## 💬 User Feedback Themes
 
-- Appreciated the **simplified flow**
-- Positive reaction to **bestseller package suggestions**
-- Requested features like **live assistance**, **voice search**
-- Trusted the **profile verification** concept for providers
+- “I love how easy this is to use — finally an app that speaks our language.”  
+- “The senior-specific section is a thoughtful touch.”  
+- “Please add voice support for navigation.”  
+- “Being able to see provider reviews gave me peace of mind.”
 
 ---
 
-## 🧪 Prototype Overview
+## 🔐 Risk & Mitigation Strategy
 
-- Designed using **Frame 22** and Figma
-- Separate flows for Elder Services, Moving Services, and General Household Help
-- Payment integration screens and profile setup flows included
-
----
-
-## 🔐 Risks & Mitigations
-
-| Risk                              | Mitigation Strategy |
-|-----------------------------------|----------------------|
-| Inconsistent service quality      | Vetting, feedback loops, certifications |
-| Market competition                | Niche positioning (senior care) |
-| Technical challenges              | MVP + iterative rollouts |
-| Regulatory constraints            | Partner with legal advisors, follow local laws |
-| User onboarding friction          | Assisted signup, onboarding help |
+| Risk Area               | Strategy |
+|-------------------------|----------|
+| Quality Assurance       | Verified professionals, transparent reviews |
+| Market Competition      | Focus on underserved senior demographic |
+| Technical Constraints   | Modular, scalable MVP architecture |
+| Regulatory Compliance   | Local legal alignment and user data safeguards |
+| User Onboarding Fatigue | Onboarding support, voice walkthroughs |
 
 ---
 
 ## 🧑‍💻 Team Contributions
 
-| Role | Members |
-|------|---------|
-| **Facilitator** | Avinash Mandalapu |
-| **Deciders** | Shoaeb, Kamal, Visnu |
-| **Customer Support Expert** | Soujan |
-| **CMO** | Deekshitha |
-| **CFO** | Rithika |
-| **Technical Expert** | Mukesh |
-| **Writers / Interviewers** | Deepthi, Krishnavyas |
+| Role                  | Team Members                  |
+|-----------------------|-------------------------------|
+| Facilitator           | Avinash Mandalapu             |
+| Product Owners        | Shoaeb, Kamal, Visnu          |
+| Design & UX           | Rithika, Deepthi              |
+| Technical Development | Mukesh                        |
+| Marketing & Branding  | Deekshitha                    |
+| Customer Insights     | Soujan                        |
 
 ---
 
 ## 📚 References
 
-- Urban Company APIs (hypothetical)
-- Google Design Sprint Book
-- Accessibility.gov guidelines
-- AARP research on senior service demand
-- Frame22 UI Prototyping Tool
+- Google Design Sprint Playbook  
+- Frame 22 Prototyping Platform  
+- AARP Research on Aging and Digital Services  
+- Urban Company Existing Platform Review  
+- Accessibility.gov UI Guidelines
+
 
 ---
 
-## 📜 License
+## 🙏 Acknowledgements
 
-MIT License – Use and modify freely with attribution. This project is for educational purposes under IS 685 at NJIT.
+Special thanks to Professor Bryan Horkan and the IS 685 cohort for guidance and collaboration. This project reflects our commitment to building technology that supports and uplifts senior citizens.
 
----
-
-## 🤝 Acknowledgements
-
-Thanks to Professor Bryan Horkan for guidance, and to the entire Team for exceptional collaboration.
-
-> “We’re not just redefining senior care; we’re shaping a brighter, more inclusive future for all.”
-"""
+> _“We’re not just redefining elder care – we’re reimagining empowerment, dignity, and access through design.”_
